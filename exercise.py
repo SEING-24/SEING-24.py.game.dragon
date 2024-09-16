@@ -1,7 +1,7 @@
 import random
- import time
+import time
  
- def displayIntro():
+def displayIntro():
      print('''You are in a land full of dragons. In front of you,
      you see two caves. In one cave, the dragon is friendly
      and will share his treasure with you. The other dragon
